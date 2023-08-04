@@ -25,4 +25,5 @@ Frontend:
 - Thymeleaf: Dynamically renders HTML templates, integrating with Spring Boot for server-side rendering.
 - CSS: Styles the web pages, controlling the visual appearance and layout of the frontend.
 - JavaScript: Adds interactivity and dynamic behavior to the user interface, allowing real-time updates and asynchronous communication with the backend.
+  
 [Source_code](https://github.com/Javac-g/Computer_Build_System)
