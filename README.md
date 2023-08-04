@@ -11,7 +11,7 @@ Alfred Nobel Univercity graduation project - PC assumbling system
    
 <img src = "PCASS.png"></img>
 
-Backend:
+### Backend:
 
 <img src = "green.svg"></img>  Java
 
@@ -24,12 +24,14 @@ Backend:
 <img src = "green.svg"></img> Rest API
   
   
-Frontend:
+### Frontend:
 
 <img src = "green.svg"></img> HTML 
 
 <img src = "green.svg"></img> Thymeleaf 
+
 <img src = "green.svg"></img> CSS 
+
 <img src = "green.svg"></img> JavaScript 
   
 [Source_code](https://github.com/Javac-g/Computer_Build_System)
