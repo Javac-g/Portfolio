@@ -20,10 +20,7 @@ Backend:
 
 Frontend:
   
-   1.HTML
-   
-   2.ThymeLeaf
-   
-   3.CSS
-   
-   4.Java Script
+   - HTML
+   - ThymeLeaf
+   - CSS
+   - Java Script
