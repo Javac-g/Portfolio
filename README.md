@@ -13,15 +13,15 @@ Alfred Nobel Univercity graduation project - PC assumbling system
 
 ### Backend:
 
-<img src = "green.svg"></img>  Java
+<img src = "green.svg"></img>  Java - core buisness logic language.
 
-<img src = "green.svg"></img>  Spring Boot
+<img src = "green.svg"></img>  Spring Boot - server side framework.
 
-<img src = "green.svg"></img> Hibernate
+<img src = "green.svg"></img> Hibernate - ORM framework. 
 
-<img src = "green.svg"></img> PostgreSQL
+<img src = "green.svg"></img> PostgreSQL - choosen database.
 
-<img src = "green.svg"></img> Rest API
+<img src = "green.svg"></img> Rest API - architecture, integration.
   
   
 ### Frontend:
