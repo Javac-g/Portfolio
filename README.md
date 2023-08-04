@@ -21,7 +21,7 @@ Alfred Nobel Univercity graduation project - PC assumbling system
 
 <img src = "green.svg"></img> PostgreSQL - choosen database.
 
-<img src = "green.svg"></img> Rest API - architecture, integration.
+<img src = "green.svg"></img> Rest API - architecture,Amazon API integration.
   
   
 ### Frontend:
