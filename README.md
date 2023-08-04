@@ -36,7 +36,7 @@ Alfred Nobel Univercity graduation project - PC assumbling system
   
 [Source_code](https://github.com/Javac-g/Computer_Build_System)
 
-
+<hr>
 Softserve academy - Java Online Marathon graduation project - To do list application
 
 <img src = "TODO.png"></img>
