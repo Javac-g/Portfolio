@@ -28,3 +28,17 @@ Frontend:
 - JavaScript: Adds interactivity and dynamic behavior to the user interface, allowing real-time updates and asynchronous communication with the backend.
   
 [Source_code](https://github.com/Javac-g/Computer_Build_System)
+
+
+Softserve academy - Java Online Marathon graduation project - To do list application
+- create user(authentication)
+- create to do list
+- add coloborators(authentication)
+- add item
+- set item priority
+- change item
+- delete item
+- admin panel
+
+   
+<img src = "TODO.png"></img>
