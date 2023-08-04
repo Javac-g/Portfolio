@@ -13,23 +13,24 @@ Alfred Nobel Univercity graduation project - PC assumbling system
 
 Backend:
 
-<img src = "green.svg"></img>  Java: [Core programming language for server-side logic and business logic implementation.]
+<img src = "green.svg"></img>  Java
 
-<img src = "green.svg"></img>  Spring Boot:[building RESTful APIs and managing application components.]
+<img src = "green.svg"></img>  Spring Boot
 
-<img src = "green.svg"></img> Hibernate: Acts as the ORM (Object-Relational Mapping) tool, facilitating communication between Java objects and the PostgreSQL database.
+<img src = "green.svg"></img> Hibernate
 
-<img src = "green.svg"></img> PostgreSQL: Reliable relational database management system for storing and managing data persistently(components,price history,user data).
+<img src = "green.svg"></img> PostgreSQL
 
-<img src = "green.svg"></img> Rest API: Enables seamless communication between the frontend and backend, facilitating data exchange and processing.(Amazon PA API)
+<img src = "green.svg"></img> Rest API
   
   
 Frontend:
 
-- HTML: Structures the user interface and defines the content and layout of web pages.
-- Thymeleaf: Dynamically renders HTML templates, integrating with Spring Boot for server-side rendering.
-- CSS: Styles the web pages, controlling the visual appearance and layout of the frontend.
-- JavaScript: Adds interactivity and dynamic behavior to the user interface, allowing real-time updates and asynchronous communication with the backend.
+<img src = "green.svg"></img> HTML 
+
+<img src = "green.svg"></img> Thymeleaf 
+<img src = "green.svg"></img> CSS 
+<img src = "green.svg"></img> JavaScript 
   
 [Source_code](https://github.com/Javac-g/Computer_Build_System)
 
