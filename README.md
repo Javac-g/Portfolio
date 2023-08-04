@@ -26,13 +26,13 @@ Alfred Nobel Univercity graduation project - PC assumbling system
   
 ### Frontend:
 
-<img src = "green.svg"></img> HTML 
+<img src = "green.svg"></img> HTML - user interface.
 
-<img src = "green.svg"></img> Thymeleaf 
+<img src = "green.svg"></img> Thymeleaf - connects server side with UI.
 
-<img src = "green.svg"></img> CSS 
+<img src = "green.svg"></img> CSS - styles.
 
-<img src = "green.svg"></img> JavaScript 
+<img src = "green.svg"></img> JavaScript - used for components filtering option on pages. 
   
 [Source_code](https://github.com/Javac-g/Computer_Build_System)
 
