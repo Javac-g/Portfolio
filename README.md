@@ -13,8 +13,8 @@ Alfred Nobel Univercity graduation project - PC assumbling system
 
 Backend:
 
-<img src = "green.svg"></img> Java: [Core programming language for server-side logic and business logic implementation.]
-<img src = "green.svg"></img> Spring Boot:[building RESTful APIs and managing application components.]
+<img src = "green.svg"></img> - Java: [Core programming language for server-side logic and business logic implementation.]
+<img src = "green.svg"></img> - Spring Boot:[building RESTful APIs and managing application components.]
 <img src = "green.svg"></img> Hibernate: Acts as the ORM (Object-Relational Mapping) tool, facilitating communication between Java objects and the PostgreSQL database.
 <img src = "green.svg"></img> PostgreSQL: Reliable relational database management system for storing and managing data persistently(components,price history,user data).
 <img src = "green.svg"></img> Rest API: Enables seamless communication between the frontend and backend, facilitating data exchange and processing.(Amazon PA API)
