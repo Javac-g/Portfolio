@@ -16,7 +16,8 @@ Backend:
 - Spring Boot: building RESTful APIs and managing application components.
 - Hibernate: Acts as the ORM (Object-Relational Mapping) tool, facilitating communication between Java objects and the PostgreSQL database.
 - PostgreSQL: Reliable relational database management system for storing and managing data persistently(components,price history,user data).
-- Rest API: Enables seamless communication between the frontend and backend, facilitating data exchange and processing.
+- Rest API: Enables seamless communication between the frontend and backend, facilitating data exchange and processing.(Amazon PA API)
+  
   
 Frontend:
 
