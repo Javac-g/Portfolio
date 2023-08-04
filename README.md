@@ -8,19 +8,15 @@ My portfolio includes projects for position of java junior developer.
 1. Graduation project - PC assumbling system , calculates pc parts compartibilities and coasts.
    Use Amazon PA API to get actual prices from Amazon.
    
-<img src = "PCASS.png"></img><br>
+<img src = "PCASS.png"></img>
 
 Backend:
 
-   1.Java
-   
-   2. Spring boot
-  
-   3. Hibernate
-   
-   4. PostgreSQL
-   
-   5. Rest API
+   - Java
+   - Spring boot
+   - Hibernate
+   - PostgreSQL
+   - Rest API
 
 Frontend:
   
