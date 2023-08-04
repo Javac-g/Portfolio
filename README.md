@@ -31,6 +31,8 @@ Frontend:
 
 
 Softserve academy - Java Online Marathon graduation project - To do list application
+
+<img src = "TODO.png"></img>
 - create user(authentication)
 - create to do list
 - add coloborators(authentication)
@@ -40,5 +42,5 @@ Softserve academy - Java Online Marathon graduation project - To do list applica
 - delete item
 - admin panel
 
-   
-<img src = "TODO.png"></img>
+[Source_code](https://github.com/Javac-g/ToDoListApplication)
+
